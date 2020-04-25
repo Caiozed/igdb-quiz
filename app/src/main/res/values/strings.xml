@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VideoGameQuiz</string>
+    <string name="no_game_selected">No game selected</string>
+    <string name="start_brn">Start</string>
+    <string name="image_transition">gameImageTransition</string>
+    <string name="text_transition">gameTextTransition</string>
+    <string name="reroll">Reroll</string>
+    <string name="title">Zed\'s GameQuiz</string>
+
+</resources>
